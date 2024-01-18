@@ -1,7 +1,7 @@
  🌱 I’m currently learning something specific or have any projects in mind related to web development or gaming, feel free to share more details
 - 💞️ I’m looking to collaborate on  any projects or if there's a specific area where you'd like assistance or collaboration, let me know.
 - 📫 How to reach out to me here if you have any questions or need information related to your interests.
-- <style>
+  
         body {
             font-family: Arial, sans-serif;
         }
