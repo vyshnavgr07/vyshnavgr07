@@ -1,64 +1,26 @@
+<h1 align='center'>👋 Hi, I’m VYSHNAV GR </h1>
+<h1 align='center'>A Passionate fullstack developer</h1>
+<img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>
+
  🌱 I’m currently learning something specific or have any projects in mind related to web development or gaming, feel free to share more details
 - 💞️ I’m looking to collaborate on  any projects or if there's a specific area where you'd like assistance or collaboration, let me know.
 - 📫 How to reach out to me here if you have any questions or need information related to your interests.
   
-        body {
-            font-family: Arial, sans-serif;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: center;
-            padding: 8px;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-
-        @media screen and (max-width: 600px) {
-            th, td {
-                display: block;
-                width: 100%;
-                box-sizing: border-box;
-            }
-
-            td {
-                border-bottom: 1px solid #dddddd;
-            }
-
-            img {
-                width: 50%;
-                margin: 10px auto;
-            }
-        }
-    </style>
 
 <h3 align="left">Creative and Technical Proficiency:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
