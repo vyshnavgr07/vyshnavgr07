@@ -11,16 +11,7 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-<!--     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td> -->
-<!--     <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td> -->
+
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -62,33 +53,33 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-<!--     <td align="center" width="96"> 
+    <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td> -->
+    </td>
     <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" width="48" height="48" alt="HTML5" />
       <br>Photoshop
     </td>
-<!--     <td align="center" width="96">
+    <td align="center" width="96">
         <div id='lottie-container'></div>
       <br>CSS
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td> -->
+    </td>
     <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       <br>Figma
     </td>
    
-<!--     <td align="center" width="96">
+     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
       <br>Material Ui
-    </td> -->
+    </td>
   </tr>
-<!--  <tr>
+ <tr>
       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <br>Postman
@@ -108,10 +99,6 @@
        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" height="62" />
       <br>Prettier
     </td>
-   <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
-      <br>Swagger API
-    </td>
     </td>
       <td align="center" width="96">
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
@@ -125,10 +112,11 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
+  
  </tr> -->
 </table>
 <br><br>
 <!---
-JasirV/JasirV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vyshnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
