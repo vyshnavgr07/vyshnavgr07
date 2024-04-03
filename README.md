@@ -30,10 +30,10 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
+    </td> -->
     <td align="center" width="96">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <br>C
@@ -80,10 +80,7 @@
       <br>Figma
     </td>
    
-    <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
-      <br>Material Ui
-    </td> 
+   
   </tr>
  <tr>
       <td align="center" width="96">
@@ -91,24 +88,24 @@
       <br>Postman
     </td>
       <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <br>Figma
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
+      <br>Material Ui
     </td>
     </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
       <br>SQLite
-    </td>
+    </td> -->
     </td>
     </td>
       <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" height="62" />
       <br>Prettier
     </td>
-   <td align="center" width="96">
+<!--    <td align="center" width="96">
        <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
       <br>Swagger API
-    </td>
+    </td> -->
     </td>
       <td align="center" width="96">
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
@@ -118,10 +115,10 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
       <br>REST API
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
+    </td> -->
  </tr> 
 </table>
 <br><br>
