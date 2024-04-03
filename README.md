@@ -8,12 +8,12 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
       </a>
       <br>javascript
-    </td>
+    </td> -->
     <td align="center" width="96">
           <img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" />
       <br>MERN
@@ -34,10 +34,10 @@
         <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
       <br>MONGODB
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <br>C
-    </td>
+    </td> -->
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
