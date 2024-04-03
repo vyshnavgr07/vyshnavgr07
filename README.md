@@ -10,12 +10,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
       </a>
       <br>javascript
     </td>
     <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" />
       <br>MERN
     </td>
     <td align="center" width="96">
@@ -30,10 +30,10 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td> -->
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
+      <br>MONGODB
+    </td>
     <td align="center" width="96">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <br>C
@@ -53,8 +53,8 @@
       <br>Bootstrap
     </td>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" />
-      <br>Java
+<!--         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" /> -->
+<!--       <br>Java -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
