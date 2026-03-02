@@ -1,15 +1,35 @@
 <img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>
 
+<h1 align="center">Hi 👋, I'm Vyshnav GR</h1>
+<h3 align="center">Full Stack MERN Developer | Building Scalable Web Applications</h3>
 
-  
- <h1 align="center">Hi 👋, I'm Vyshnav GR</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<p align="center">
+  Passionate Full Stack Developer with 2.6+ years of experience in building
+  responsive, scalable, and secure web applications using the MERN Stack.
+  Experienced in frontend, backend, REST APIs, authentication, and payment integration.
+</p>
 
-- 📫 How to reach me **vyshnavgr07@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+
+- 💼 Full Stack Developer (MERN)
+- 🚀 2.6+ Years of Experience
+- 🔐 Experienced in Authentication (JWT, Refresh Tokens)
+- 💳 Payment Integration: Razorpay & Stripe
+- 🛠️ Strong in API Development & Database Design
+- 🎯 Focused on writing clean, scalable & maintainable code
+- 📍 Kerala, India
+- 📫 Reach me at: **vyshnavgr07@gmail.com**
+
+---
+
+### 🔗 Connect With Me
+
 <p align="left">
-<a href="https://www.topcoder.com/members/673323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="673323" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/673323" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
