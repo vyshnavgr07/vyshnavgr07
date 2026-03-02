@@ -27,7 +27,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.topcoder.com/members/673323" target="blank">
+<a href="https://vyshnavgr.vercel.app/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
 </a>
 </p>
